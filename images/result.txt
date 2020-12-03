@@ -1,0 +1,3 @@
+pomremove.jpg = masksc.py -remove -im images/pom.jpg -out images/pomremove.jpg -rmask
+
+pomresize-50dx.jpg = masksc.py -resize -im images/pom.jpg -out images/pomresize-50dx.jpg -dx -50
